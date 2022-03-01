@@ -1,4 +1,4 @@
-#Object-Relational Mapping (ORM): E-Commerce Back End 
+# Object-Relational Mapping (ORM): E-Commerce Back End 
 
       
 ![GitHub license](https://img.shields.io/static/v1?label=License&message=MIT&color=blue&style=for-the-badge)
@@ -77,7 +77,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 # Walkthrough
 
-Checkout the walkthrough here ![Ecom Backend Walkthrough](https://www.loom.com/share/f0aadc6a40814c84b4c894efacb9e704)
+> [Checkout the walkthrough](https://www.loom.com/share/f0aadc6a40814c84b4c894efacb9e704)
 
 # Questions
 Please contact me through the following methods!
